@@ -1,0 +1,13 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/admin-demo",
+      "destination": "/admin-demo/index.html"
+    },
+    {
+      "source": "/admin-demo/(.*)",
+      "destination": "/admin-demo/$1"
+    }
+  ]
+}

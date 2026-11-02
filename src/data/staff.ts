@@ -1,0 +1,1 @@
+export const staffRoles = ['Custom Order Manager', 'Head Tailor', 'Senior Stylist', 'Abuja Branch Manager', 'Lagos Branch Manager'];
